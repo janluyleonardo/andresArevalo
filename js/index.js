@@ -1,3 +1,11 @@
-function mostrar(){
- alert('hola mundo, bienvenido andres');
-}
+function mostrarMensaje1(){
+ alert('Bienvenido al curso JavaScript de aprenderaprogramar.com');
+ }
+ 
+ function mostrarMensaje2(){
+ alert('Ha hecho click sobre el párrafo inferior');
+ }
+ 
+ function mostrar(){
+  alert("click en boton mostrar");
+ }
