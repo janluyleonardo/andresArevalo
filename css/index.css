@@ -1,15 +1,15 @@
 body{
- background-color:rgb(226, 230, 14);
+ background-color:#e6270e;
 }
 #prueba{
- color:purple;
+ color:#e93d3d;
 }
 .clase{
- background-color:white;
+ background-color:#e6270e;
 }
 @media (min-width: 640px) and (max-width: 650px) {
     body {
-        background-color: aqua !important;
+        background-color: #e6270e !important;
     }
     
 }
