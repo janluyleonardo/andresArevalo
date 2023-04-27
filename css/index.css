@@ -5,11 +5,11 @@ body{
  color:purple;
 }
 .clase{
- background-color:white;
+ background-color:rgb(138, 233, 228);
 }
 @media (min-width: 640px) and (max-width: 650px) {
     body {
-        background-color: aqua !important;
+        background-color: rgb(175, 99, 162) !important;
     }
     
-}
+}s
