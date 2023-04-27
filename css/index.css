@@ -5,11 +5,11 @@ body{
  color:#e93d3d;
 }
 .clase{
- background-color:#e6270e;
+ background-color:#aa5432;
 }
 @media (min-width: 640px) and (max-width: 650px) {
     body {
-        background-color: #e6270e !important;
+        background-color: #dcd9e7 !important;
     }
     
 }
